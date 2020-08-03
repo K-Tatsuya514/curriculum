@@ -46,7 +46,7 @@ CRUDFƒVƒXƒeƒ€‚É•K—v‚È4‚Â‚ÌŽå—v‹@”\‚Å‚ ‚éuCreatei¶¬jvuReadi“Ç‚ÝŽæ‚èjv
 ƒ`ƒ…[ƒjƒ“ƒOF«”\‚Ìˆ«‚¢SQL‚ð”­Œ©‚µA‚»‚Ìˆ—‰ß’ö‚ð‰ü‘P‚·‚é‚±‚Æ
 ƒpƒtƒH[ƒ}ƒ“ƒXFˆ—«”\‚âŽÀs‘¬“xA’ÊM‰ñüEƒlƒbƒgƒ[ƒN‚È‚Ç‚Ì“`‘—‘¬“xE—e—Ê‚È‚Ç
 ƒXƒ[ƒNƒGƒŠFƒf[ƒ^ƒx[ƒX‚É‚¨‚¢‚ÄAŽžŠÔ‚Ì‚©‚©‚Á‚Ä‚¢‚éSQL(’x‚¢SQL)‚Ì‚±‚Æ
-ƒNƒGƒŠƒƒO
+ƒNƒGƒŠƒƒOFMySQL ƒT[ƒo‚ªŽÀs‚µ‚½‘S‚Ä‚Ì SQL ƒNƒGƒŠ‚ðo—Í‚·‚éƒƒO‚Å‚·B
 IDEi“‡ŠJ”­ŠÂ‹«jFƒvƒƒOƒ‰ƒ€‚ðì‚é‚½‚ß‚É•K—v‚È•¨‚ª‘S•”‹l‚Ü‚Á‚½ŠJ”­ŠÂ‹«BEclipse‚Æ‚©VisualStudio‚Æ‚©BƒRƒ“ƒpƒCƒ‰EƒGƒfƒBƒ^EƒfƒoƒbƒN‹@”\‚È‚Ç‚ªƒZƒbƒg‚É‚È‚Á‚½ƒc[ƒ‹B
 EclipseFJava‚ÌIDEB
 NetBeansFEclipse‚Æ“¯‚¶‚¾‚ªAŠg’£«‚ª’á‚­A•ÛŠÇ‚âƒGƒ‰[ŒŸo‚ªŽã‚¢B‚µ‚©‚µAEclipse‚æ‚èA‚í‚©‚è‚â‚·‚­‚ÄƒVƒ“ƒvƒ‹B
@@ -104,7 +104,7 @@ IPƒAƒhƒŒƒXFƒlƒbƒgƒ[ƒN‚ÌˆÊ’u‚Æ‚µ‚Ä‚ÌZŠB
 ƒhƒƒCƒ“FIPƒAƒhƒŒƒX‚ÍlŠÔ‚É‚ÍŠo‚¦‚Ã‚ç‚¢‚½‚ßAlŠÔ‚É‚àŠo‚¦‚â‚·‚¢‚æ‚¤ƒXƒyƒ‹‚Å•\‚µ‚½Œ`‚Ì‚±‚ÆB
 DNS(ƒhƒƒCƒ“ƒl[ƒ€ƒVƒXƒeƒ€)FƒhƒƒCƒ“–¼‚Æ IP ƒAƒhƒŒƒX‚Ì‘Î‰ž‚ðŠÇ—‚·‚éƒVƒXƒeƒ€‚Ì‚±‚ÆB
 VPNiƒo[ƒ`ƒƒƒ‹Eƒvƒ‰ƒCƒx[ƒgEƒlƒbƒgƒ[ƒNjF—£‚ê‚½êŠ‚ÌŠÔ‚ð‰¼‘z“I‚Èê—pü‚Å‚Â‚È‚¢‚ÅˆÀ‘S‚Èƒf[ƒ^’ÊM‚ðŽÀŒ»‚·‚éŽd‘g‚ÝB
-ƒuƒŠƒbƒW
+ƒuƒŠƒbƒWFMACƒAƒhƒŒƒX‚ðŒ©‚Äƒf[ƒ^‚Ìs‚«æ‚ðU‚è•ª‚¯‚Ä‚­‚ê‚é‹@Ší
 ƒvƒƒLƒVƒT[ƒo[FƒNƒ‰ƒCƒAƒ“ƒg‚ÆƒT[ƒoŠÔ‚Å’ÊM‚ðs‚¤‚Æ‚«‚ÌA’†Œp(‘ã—)ƒT[ƒoB
 ¡ “dŽqƒ[ƒ‹
 SMTPFƒ[ƒ‹‘—M‚ÉŠÖ‚·‚é’ÊMƒvƒƒgƒRƒ‹B
